@@ -1,4 +1,4 @@
-# coco-s
+
 #### Sobre a atividade, você deverá considerar o seguinte assunto:
 
 - A pesquisa descritiva será sobre **Engenharia de Requisitos**
