@@ -1,4 +1,5 @@
-# VERSÃO 2
+# VERSÃO 3
+<img src="https://media1.tenor.com/m/_7wgn-YSdl4AAAAC/good-bye.gif">
 
 #### Sobre a atividade, você deverá considerar o seguinte assunto:
 
